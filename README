@@ -1,0 +1,21 @@
+NAME
+    mv2trash - move (file|folder)s? to trash on OS X
+
+VERSION
+    $Id: README,v 0.1 2013/04/13 16:05:18 dankogai Exp dankogai $
+
+SYNOPSIS
+      mv2trash files...
+
+DESCRIPTION
+    "mv2trash" moves files and folders to trash. That's it. No big deal.
+
+LICENSE AND COPYRIGHT
+    Copyright 2013 Dan Kogai.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the terms of the the Artistic License (2.0). You may obtain a copy
+    of the full license at:
+
+    <http://www.perlfoundation.org/artistic_license_2_0>
+
