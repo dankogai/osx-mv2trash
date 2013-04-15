@@ -1,7 +1,10 @@
 #
 # Revision history for App-mv2trash
 #
-$Revision: 0.1 $ $Date: 2013/04/13 16:05:18 $
-0.01 2013/02/27 10:14:48
+$Revision: 0.2 $ $Date: 2013/04/15 00:29:54 $
+! bin/mv2trash
+  Now moves all at once so you can undo with ctrl-Z on Finder
+
+0.01 2013/04/13 16:05:18
 + *
   First Release
